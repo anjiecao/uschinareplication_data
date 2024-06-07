@@ -40,3 +40,4 @@ REDIVIS_API_TOKEN=12345
 ```
 
 For local development, run `quarto preview` to see the site output. Once you push to GitHub, a GitHub action automatically renders the site and deploys it to GitHub pages.
+
