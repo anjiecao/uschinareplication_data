@@ -16,12 +16,10 @@ about:
 
 citation:
   type: article-journal
-  title: Ecological sexual dimorphism and environmental variability within a community of Antarctic penguins (genus Pygoscelis)
+  title: lol)
   issued: 2014
   author:
-    - Kristen B. Gorman
-    - Tony D. Williams
-    - William R. Fraser
+   - lalalalala
   container-title: PLoS ONE
   doi: 10.1371/journal.pone.0090081
 ---
@@ -29,6 +27,8 @@ citation:
 ## palmerpenguins
 
 The goal of palmerpenguins is to provide a great dataset for data exploration & visualization, as an alternative to `iris`.
+
+CHANGEMEME
 
 Data were collected and made available by [Dr. Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php) and the [Palmer Station, Antarctica LTER](https://pallter.marine.rutgers.edu/), a member of the [Long Term Ecological Research Network](https://lternet.edu/). The dataset contains data for 344 penguins. There are 3 different species of penguins in this dataset, collected from 3 islands in the Palmer Archipelago, Antarctica.
 

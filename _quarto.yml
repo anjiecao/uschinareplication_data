@@ -1,5 +1,5 @@
 project:
-  title: "US-China differences in cognition and perception across 12 tasks: Replicability, robustness, and within-culture variation"
+  title: "US-China Replication "
   type: datapage
 
 website:
@@ -17,6 +17,6 @@ execute:
   error: false
 
 redivis:
-  user: datapages
-  dataset: palmerpenguins
-  table: penguins
+  user: anjiecao
+  dataset: us_china_comparison
+  table: study_1
