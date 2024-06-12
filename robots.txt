@@ -1,1 +1,1 @@
-Sitemap: https://datapages.github.io/datapage/sitemap.xml
+Sitemap: https://anjiecao.github.io/uschinareplication_data/sitemap.xml
